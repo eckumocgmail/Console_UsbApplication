@@ -1,0 +1,10 @@
+D:\NetProjects\Console_UseApplication\obj\Debug\net5.0\Console_UseApplication.csproj.AssemblyReference.cache
+D:\NetProjects\Console_UseApplication\obj\Debug\net5.0\Console_UseApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetProjects\Console_UseApplication\obj\Debug\net5.0\Console_UseApplication.AssemblyInfoInputs.cache
+D:\NetProjects\Console_UseApplication\obj\Debug\net5.0\Console_UseApplication.AssemblyInfo.cs
+D:\NetProjects\Console_UseApplication\obj\Debug\net5.0\Console_UseApplication.csproj.CoreCompileInputs.cache
+D:\Projects\Console_UseApplication\obj\Debug\net5.0\Console_UseApplication.csproj.AssemblyReference.cache
+D:\Projects\Console_UseApplication\obj\Debug\net5.0\Console_UseApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Console_UseApplication\obj\Debug\net5.0\Console_UseApplication.AssemblyInfoInputs.cache
+D:\Projects\Console_UseApplication\obj\Debug\net5.0\Console_UseApplication.AssemblyInfo.cs
+D:\Projects\Console_UseApplication\obj\Debug\net5.0\Console_UseApplication.csproj.CoreCompileInputs.cache
